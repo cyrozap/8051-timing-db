@@ -9,6 +9,9 @@
 - `cycles_DW8051_published.csv`
   - Name: Synopsys DesignWare DW8051
   - Source: Instruction set summary starting on page 58 of [this PDF][DW8051_databook.pdf].
+- `cycles_EZ-USB_published.csv`
+  - Name: Cypress EZ-USB FX1 and EZ-USB FX2LP
+  - Source: Instruction set summary starting on page 176 of [this PDF][ez-usb].
 - `cycles_STC-Y5_published.csv`
   - Name: STCmicro STC-Y5
   - Sources:
@@ -33,5 +36,6 @@
 
 [8051-manual]: https://web.archive.org/web/20220703014723if_/http://datasheets.chipdb.org/Intel/MCS51/MANUALS/27238302.PDF
 [DW8051_databook.pdf]: https://web.archive.org/web/20221121112813if_/https://courses.cs.washington.edu/courses/cse477/02sp/docs/DW8051_databook.pdf
+[ez-usb]: https://web.archive.org/web/20221121123349if_/https://www.infineon.com/dgdl/Infineon-EZ-USB_TECHNICAL_REFERENCE_MANUAL-AdditionalTechnicalInformation-v08_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0f9093657d61
 [STC15F2K60S2-en.pdf]: https://web.archive.org/web/20200305112930/http://stcmicro.com/datasheet/STC15F2K60S2-en.pdf
 [cyrozap]: https://github.com/cyrozap
