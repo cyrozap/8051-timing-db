@@ -21,6 +21,9 @@
 - `cycles_EZ-USB_published.csv`
   - Name: Cypress EZ-USB FX1 and EZ-USB FX2LP
   - Source: Instruction set summary starting on page 176 of [this PDF][ez-usb].
+- `cycles_OC8051_published.csv`
+  - Name: OpenCores OC8051
+  - Source: Instruction set summary starting on page 15 of [this PDF][oc8051].
 - `cycles_PSoC-3_published.csv`
   - Name: Cypress PSoC 3
   - Source: Instruction set summary starting on page 15 of [this PDF][psoc3].
@@ -52,6 +55,7 @@
 [DS80C320]: https://web.archive.org/web/20240706053227if_/https://www.analog.com/media/en/technical-documentation/data-sheets/DS80C320-DS80C323.pdf
 [DW8051_databook.pdf]: https://web.archive.org/web/20221121112813if_/https://courses.cs.washington.edu/courses/cse477/02sp/docs/DW8051_databook.pdf
 [ez-usb]: https://web.archive.org/web/20221121123349if_/https://www.infineon.com/dgdl/Infineon-EZ-USB_TECHNICAL_REFERENCE_MANUAL-AdditionalTechnicalInformation-v08_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0f9093657d61
+[oc8051]: https://github.com/freecores/8051/raw/f1a1ce31640c3e5c67935b649235e644462365a5/doc/pdf/oc8051_spec.pdf
 [psoc3]: https://web.archive.org/web/20221118061815if_/https://www.infineon.com/dgdl/Infineon-PSoC_3_CY8C38_Programmable_System-on-Chip-DataSheet-v34_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ec70ebd3dce
 [STC15F2K60S2-en.pdf]: https://web.archive.org/web/20200305112930/http://stcmicro.com/datasheet/STC15F2K60S2-en.pdf
 [cyrozap]: https://github.com/cyrozap
