@@ -9,6 +9,9 @@
 - `cycles_AT89LP51_published.csv`
   - Name: Atmel AT89LP51/52
   - Source: Instruction set summary starting on page 75 of [this PDF][at89]
+- `cycles_CIP-51_published.csv`
+  - Name: Cygnal CIP-51
+  - Source: Instruction set summary starting on page 129 of [this PDF][C8051F12x-13x].
 - `cycles_DS80C320_published.csv`
   - Name: Dallas DS80C320
   - Source: Instruction set summary starting on page 9 of [this PDF][DS80C320]
@@ -45,6 +48,7 @@
 
 [8051-manual]: https://web.archive.org/web/20220703014723if_/http://datasheets.chipdb.org/Intel/MCS51/MANUALS/27238302.PDF
 [at89]: https://web.archive.org/web/20220520025001if_/https://ww1.microchip.com/downloads/en/DeviceDoc/doc3709.pdf
+[C8051F12x-13x]: https://web.archive.org/web/20240921211234if_/https://www.silabs.com/documents/public/data-sheets/C8051F12x-13x.pdf
 [DS80C320]: https://web.archive.org/web/20240706053227if_/https://www.analog.com/media/en/technical-documentation/data-sheets/DS80C320-DS80C323.pdf
 [DW8051_databook.pdf]: https://web.archive.org/web/20221121112813if_/https://courses.cs.washington.edu/courses/cse477/02sp/docs/DW8051_databook.pdf
 [ez-usb]: https://web.archive.org/web/20221121123349if_/https://www.infineon.com/dgdl/Infineon-EZ-USB_TECHNICAL_REFERENCE_MANUAL-AdditionalTechnicalInformation-v08_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0f9093657d61
