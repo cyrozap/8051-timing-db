@@ -61,5 +61,5 @@
 [oc8051]: https://github.com/freecores/8051/raw/f1a1ce31640c3e5c67935b649235e644462365a5/doc/pdf/oc8051_spec.pdf
 [psoc3]: https://web.archive.org/web/20221118061815if_/https://www.infineon.com/dgdl/Infineon-PSoC_3_CY8C38_Programmable_System-on-Chip-DataSheet-v34_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ec70ebd3dce
 [STC15F2K60S2-en.pdf]: https://web.archive.org/web/20200305112930/http://stcmicro.com/datasheet/STC15F2K60S2-en.pdf
-[t51]: https://github.com/freecores/t51/raw/bb9b9af140492edc2972baba51317dea6d079c17/doc/Instruction%20Set.pdf
+[t51]: https://web.archive.org/web/20250124233334if_/https://raw.githubusercontent.com/freecores/t51/bb9b9af140492edc2972baba51317dea6d079c17/doc/Instruction%20Set.pdf
 [cyrozap]: https://github.com/cyrozap
